@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Ceep"
         tools:targetApi="31">
         <activity
-            android:name=".ui.activity.AdicionaNotaActivity"
+            android:name=".ui.activity.FormularioNotaActivity"
             android:exported="false" />
         <activity
             android:name=".ui.activity.ListaNotasActivity"
